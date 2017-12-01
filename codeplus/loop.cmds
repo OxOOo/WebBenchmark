@@ -1,0 +1,8 @@
+1
+GET ${host}
+2
+GET ${host}/contests
+5
+GET ${host}/contests/5a131456aa5ec762c97f6231
+5
+GET ${host}/contests/5a131456aa5ec762c97f6231/problem/div1/1
